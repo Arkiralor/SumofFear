@@ -1,5 +1,6 @@
 # SumofFear
 C++ Program to solve the "Sum of Fear" problem using OOP.
+
 This problem can be summarised as:
   given a set S, an operator * and a value x,
   find all a*b = x |a, b ε S
